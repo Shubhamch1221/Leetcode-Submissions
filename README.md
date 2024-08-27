@@ -27,4 +27,5 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
