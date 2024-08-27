@@ -23,4 +23,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
