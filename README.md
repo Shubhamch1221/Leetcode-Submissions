@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
