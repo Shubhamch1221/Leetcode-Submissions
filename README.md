@@ -9,6 +9,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
