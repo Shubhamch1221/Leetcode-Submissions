@@ -10,6 +10,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@
 | [0001-two-sum](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -27,6 +29,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
