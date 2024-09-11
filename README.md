@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0328-odd-even-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
