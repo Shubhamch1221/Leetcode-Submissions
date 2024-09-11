@@ -75,4 +75,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
