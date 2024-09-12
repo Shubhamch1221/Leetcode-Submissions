@@ -45,6 +45,7 @@
 | [0038-count-and-say](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@
 | [0042-trapping-rain-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
