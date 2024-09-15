@@ -92,6 +92,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
