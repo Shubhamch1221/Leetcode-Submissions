@@ -30,11 +30,13 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
@@ -57,6 +59,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0148-sort-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0283-move-zeroes) |
@@ -90,6 +93,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0328-odd-even-linked-list) |
 ## Greedy
 |  |
@@ -109,4 +113,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
