@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0056-merge-intervals) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
