@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
@@ -43,6 +44,7 @@
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0148-sort-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
