@@ -55,6 +55,7 @@
 | [0006-zigzag-conversion](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0344-reverse-string) |
