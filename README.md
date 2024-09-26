@@ -102,6 +102,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0328-odd-even-linked-list) |
 ## Greedy
