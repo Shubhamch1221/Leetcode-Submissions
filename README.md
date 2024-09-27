@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0274-h-index) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
