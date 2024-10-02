@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0189-rotate-array) |
@@ -123,6 +124,7 @@
 | [0055-jump-game](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 ## Math
 |  |
