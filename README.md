@@ -110,6 +110,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0086-partition-list) |
@@ -151,4 +152,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
