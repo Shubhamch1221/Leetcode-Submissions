@@ -65,6 +65,7 @@
 | [0165-compare-version-numbers](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
 ## Two Pointers
 |  |
@@ -81,6 +82,7 @@
 | [0189-rotate-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
@@ -105,6 +107,7 @@
 | [0055-jump-game](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
