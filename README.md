@@ -29,6 +29,7 @@
 | [0274-h-index](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
+| [1256-rank-transform-of-an-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0217-contains-duplicate](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [1256-rank-transform-of-an-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0217-contains-duplicate](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0274-h-index) |
+| [1256-rank-transform-of-an-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
