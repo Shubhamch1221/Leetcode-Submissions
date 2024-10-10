@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0202-happy-number) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0202-happy-number) |
 ## Bit Manipulation
