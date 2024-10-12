@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0056-merge-intervals) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
@@ -51,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
@@ -69,6 +72,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0165-compare-version-numbers) |
