@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0049-group-anagrams) |
@@ -186,6 +187,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
