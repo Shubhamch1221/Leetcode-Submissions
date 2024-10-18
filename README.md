@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0049-group-anagrams) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
