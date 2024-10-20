@@ -32,6 +32,7 @@
 | [0274-h-index](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 ## Hash Table
@@ -65,6 +66,7 @@
 | [0217-contains-duplicate](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0274-h-index) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1256-rank-transform-of-an-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 ## Counting
 |  |
@@ -155,6 +157,7 @@
 | [0134-gas-station](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Math
 |  |
 | ------- |
