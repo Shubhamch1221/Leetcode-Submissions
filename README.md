@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
 ## Matrix
 |  |
@@ -167,6 +168,7 @@
 | [0189-rotate-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -199,4 +201,8 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
