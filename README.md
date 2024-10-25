@@ -51,6 +51,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [1256-rank-transform-of-an-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
 ## Two Pointers
