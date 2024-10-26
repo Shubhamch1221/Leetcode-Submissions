@@ -92,6 +92,7 @@
 | [0344-reverse-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
 ## Two Pointers
 |  |
@@ -123,6 +124,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
 ## Matrix
 |  |
@@ -176,6 +178,7 @@
 | [0202-happy-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
