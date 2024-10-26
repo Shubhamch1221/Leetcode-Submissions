@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0041-first-missing-positive) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
