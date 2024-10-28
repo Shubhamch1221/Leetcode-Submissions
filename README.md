@@ -43,6 +43,7 @@
 | [0001-two-sum](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
@@ -84,6 +85,7 @@
 | [0006-zigzag-conversion](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
@@ -176,6 +178,7 @@
 | [0007-reverse-integer](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0231-power-of-two) |
