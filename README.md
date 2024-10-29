@@ -98,6 +98,7 @@
 | [0392-is-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0258-add-digits](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
 | ------- |
