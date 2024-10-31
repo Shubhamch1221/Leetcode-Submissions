@@ -98,6 +98,7 @@
 | [0392-is-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
+| [1894-merge-strings-alternately](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
@@ -119,6 +120,7 @@
 | [0344-reverse-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
+| [1894-merge-strings-alternately](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
