@@ -73,6 +73,7 @@
 | [0274-h-index](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1256-rank-transform-of-an-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
+| [2887-sort-vowels-in-a-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2887-sort-vowels-in-a-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/2887-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
