@@ -55,6 +55,7 @@
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0383-ransom-note) |
+| [0567-permutation-in-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
@@ -99,6 +100,7 @@
 | [0392-is-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -123,6 +125,7 @@
 | [0344-reverse-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Stack
@@ -215,6 +218,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 ## Recursion
 |  |
 | ------- |
