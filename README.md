@@ -178,6 +178,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0328-odd-even-linked-list) |
 ## Greedy
 |  |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0203-remove-linked-list-elements](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
