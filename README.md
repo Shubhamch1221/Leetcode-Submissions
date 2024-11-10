@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0027-remove-element) |
@@ -61,6 +62,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
 ## Sorting
@@ -235,6 +237,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
