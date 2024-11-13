@@ -5,7 +5,7 @@ public:
         unordered_set<char> set;
         int start=0;
         for(int end=0;end<n;end++){
-            if(set.count(s[end])==0){
+            if(set.find(s[end])==0){
                 set.insert(s[end]);
                 maxi=max(maxi,end-start+1);
             }else{
