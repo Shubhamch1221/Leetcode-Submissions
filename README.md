@@ -107,6 +107,7 @@
 | [0392-is-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
@@ -249,4 +250,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0258-add-digits) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
