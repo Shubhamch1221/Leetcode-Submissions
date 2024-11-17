@@ -19,6 +19,7 @@
 | [0055-jump-game](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -212,6 +213,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0231-power-of-two) |
 ## Prefix Sum
@@ -254,4 +256,8 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0459-repeated-substring-pattern) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
