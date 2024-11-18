@@ -39,6 +39,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0909-stone-game](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0909-stone-game) |
 | [1256-rank-transform-of-an-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -170,6 +171,7 @@
 | [0152-maximum-product-subarray](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0392-is-subsequence) |
+| [0909-stone-game](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0909-stone-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | [0231-power-of-two](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0415-add-strings) |
+| [0909-stone-game](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0909-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -260,4 +263,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0078-subsets) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
