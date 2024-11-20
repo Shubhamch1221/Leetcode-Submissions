@@ -40,6 +40,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0909-stone-game](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0909-stone-game) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@
 | [0290-word-pattern](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
@@ -87,6 +89,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0383-ransom-note) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## String
 |  |
 | ------- |
