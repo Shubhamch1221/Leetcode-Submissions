@@ -43,6 +43,7 @@
 | [0909-stone-game](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0909-stone-game) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
