@@ -40,6 +40,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [0909-stone-game](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0909-stone-game) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
@@ -211,6 +212,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 ## Math
 |  |
 | ------- |
