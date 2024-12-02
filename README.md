@@ -220,6 +220,7 @@
 | [0009-palindrome-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0231-power-of-two) |
@@ -256,6 +257,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0231-power-of-two) |
 ## Binary Search
