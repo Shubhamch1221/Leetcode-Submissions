@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -132,6 +133,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
