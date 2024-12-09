@@ -36,6 +36,7 @@
 | [0217-contains-duplicate](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
@@ -64,6 +65,7 @@
 | [0217-contains-duplicate](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
@@ -85,6 +87,7 @@
 | [0169-majority-element](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0455-assign-cookies) |
@@ -234,6 +237,7 @@
 | [0202-happy-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0909-stone-game](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0909-stone-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -243,6 +247,7 @@
 | [0078-subsets](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -275,6 +280,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Number Theory
 |  |
