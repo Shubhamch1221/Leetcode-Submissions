@@ -108,6 +108,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0055-jump-game) |
@@ -293,6 +295,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0078-subsets) |
 ## Game Theory
 |  |
