@@ -202,6 +202,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -228,6 +229,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
@@ -271,6 +273,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0050-powx-n) |
