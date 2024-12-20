@@ -108,6 +108,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0049-group-anagrams) |
@@ -163,6 +164,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0874-backspace-string-compare](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shubhamch1221/Leetcode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
